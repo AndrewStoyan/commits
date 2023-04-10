@@ -1,6 +1,6 @@
 {
     "Key1": "Cat",
-    "Key2": "Dog",
+    "Key2": "Dogwefwefwe",
     "Key3": "Mouse",
     "1": "%FileSizeLimit%",
     "2": "%FileSizeLimit%MB",
