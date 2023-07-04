@@ -4,5 +4,5 @@ files:
   - source: '*.json'
     translation: /translations/%original_file_name%.%two_letters_code%
     excluded_target_languages:
-      - uk,
+      - uk
       - ar-ZA
