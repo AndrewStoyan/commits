@@ -5,5 +5,4 @@ files:
     translation: /translations/%original_file_name%.%two_letters_code%
     excluded_target_languages:
       - uk,
-      - fr
-    
+      - ar-ZA
