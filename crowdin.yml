@@ -1,4 +1,5 @@
-bundle_ids: []
+bundle_ids:
+  - 32
 commit_message: Update %language% translations
 append_commit_message: 
 files:
