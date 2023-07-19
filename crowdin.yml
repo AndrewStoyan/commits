@@ -1,5 +1,5 @@
 bundle_ids:
-  - 32
+  - 31
 commit_message: Update %language% translations
 append_commit_message: 
 files:
