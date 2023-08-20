@@ -1,3 +1,6 @@
+bundle_ids:
+  - 31
+  - 33
 bundles:
   - 12
 commit_message: Update %language% translations
