@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="18450" original="/111 (1).xml" source-language="en" target-language="ach" datatype="plaintext" project-id="144605" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="1639335" resname="identifier_1">
+        <source>String for translation 1123234</source>
+        <target state="needs-translation">String for translation 1123234</target>
+        <context-group purpose="information">
+          <context context-type="source">identifier_1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639336" resname="identifier_2">
+        <source>String for translation 2</source>
+        <target state="needs-translation">String for translation 2</target>
+        <context-group purpose="information">
+          <context context-type="source">identifier_2
+Type string's context here</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639337" resname="identifier_3">
+        <source>String for translation 3</source>
+        <target state="needs-translation">String for translation 3</target>
+        <context-group purpose="information">
+          <context context-type="source">identifier_3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639338" resname="identifier_4" translate="no">
+        <source>String for translation 4</source>
+        <target>String for translation 4</target>
+        <context-group purpose="information">
+          <context context-type="source">identifier_4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639339" resname="identifier_5" size-unit="char" maxwidth="15">
+        <source> String for translation 5</source>
+        <target state="needs-translation"> String for translation 5</target>
+        <context-group purpose="information">
+          <context context-type="source">identifier_5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639340" resname="some">
+        <source>&lt;i contenteditable=&quot;false&quot; unselectable=&quot;on&quot; class=&quot;fa fa-check-square-o&quot; data-unicode=&quot;f048&quot;/&gt;I agree</source>
+        <target state="needs-translation">&lt;i contenteditable=&quot;false&quot; unselectable=&quot;on&quot; class=&quot;fa fa-check-square-o&quot; data-unicode=&quot;f048&quot;/&gt;I agree</target>
+        <context-group purpose="information">
+          <context context-type="source">some</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639341" resname="some1">
+        <source>&lt;i contenteditable=&quot;true&quot; unselectable=&quot;off&quot; class=&quot;fa wef fa-check-square-o&quot; data-unicode=&quot;f048&quot;/&gt;I agree</source>
+        <target state="needs-translation">&lt;i contenteditable=&quot;true&quot; unselectable=&quot;off&quot; class=&quot;fa wef fa-check-square-o&quot; data-unicode=&quot;f048&quot;/&gt;I agree</target>
+        <context-group purpose="information">
+          <context context-type="source">some1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639342" resname="some2">
+        <source>&lt;claro_style class=&quot;dki-text-style-1E08CDCC-0D20-90A0-B2CB-170E580C64DF&quot; id=&quot;yui-gen53&quot;&gt;&lt;claro_style id=&quot;dki-gen65143&quot; class=&quot;dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A&quot;&gt;Fish Identification Strategy&lt;/claro_style&gt;&lt;/claro_style&gt;</source>
+        <target state="needs-translation">&lt;claro_style class=&quot;dki-text-style-1E08CDCC-0D20-90A0-B2CB-170E580C64DF&quot; id=&quot;yui-gen53&quot;&gt;&lt;claro_style id=&quot;dki-gen65143&quot; class=&quot;dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A&quot;&gt;Fish Identification Strategy&lt;/claro_style&gt;&lt;/claro_style&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">some2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639343" resname="some23">
+        <source>&lt;claro_style class=&quot;dki-twefext-style-1E08CDCC-0D20-90A0-B2CB-wef170E580C64DF&quot; id=&quot;yui-gewfen53&quot;&gt;&lt;claro_style id=&quot;dki-gwefn65143&quot; class=&quot;dki-text-style-531A4F63-F417-5wef7E2-2441-100C9CBB9F1A&quot;&gt;Fish Identification Strategy&lt;/claro_style&gt;&lt;/claro_style&gt;</source>
+        <target state="needs-translation">&lt;claro_style class=&quot;dki-twefext-style-1E08CDCC-0D20-90A0-B2CB-wef170E580C64DF&quot; id=&quot;yui-gewfen53&quot;&gt;&lt;claro_style id=&quot;dki-gwefn65143&quot; class=&quot;dki-text-style-531A4F63-F417-5wef7E2-2441-100C9CBB9F1A&quot;&gt;Fish Identification Strategy&lt;/claro_style&gt;&lt;/claro_style&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">some23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639344" resname="some23q">
+        <source>Fish Identification Strategy</source>
+        <target state="needs-translation">Fish Identification Strategy</target>
+        <context-group purpose="information">
+          <context context-type="source">some23q</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1639345" resname="some23q3">
+        <source>Hello &lt;a href=&quot;bing.com&quot; title=&quot;bing me&quot;&gt;Press&lt;/a&gt;</source>
+        <target state="needs-translation">Hello &lt;a href=&quot;bing.com&quot; title=&quot;bing me&quot;&gt;Press&lt;/a&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">some23q3</context>
+        </context-group>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="1639346[0]" resname="apples_count">
+          <source>%s apple</source>
+          <target state="needs-translation">%s apple</target>
+          <context-group purpose="information">
+            <context context-type="source">apples_count [one] [other]</context>
+            <context context-type="x-plural-form">Form: One</context>
+            <context context-type="x-plural-example">Translation will be used with numbers: 0, 1</context>
+          </context-group>
+        </trans-unit>
+        <trans-unit id="1639346[1]" resname="apples_count">
+          <source>%s apples</source>
+          <target state="needs-translation">%s apples</target>
+          <context-group purpose="information">
+            <context context-type="source">apples_count [one] [other]</context>
+            <context context-type="x-plural-form">Form: Other</context>
+            <context context-type="x-plural-example">Translation will be used with numbers: 2-999; 1.2, 2.07...</context>
+          </context-group>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
