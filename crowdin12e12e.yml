@@ -2,6 +2,3 @@ bundles:
   - 48
 commit_message: Update %language% translations
 append_commit_message: 
-files:
-  - source: '*.json'
-    translation: /translations/%original_file_name%.%two_letters_code%
