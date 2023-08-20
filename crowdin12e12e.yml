@@ -3,6 +3,7 @@ bundle_ids:
   - 33
 bundles:
   - 12
+  - 99999
 commit_message: Update %language% translations
 append_commit_message: 
 files:
