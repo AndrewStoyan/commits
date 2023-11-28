@@ -364,9 +364,9 @@ XPath: /html/body/footer/div/div/div[2]/form/div/input[@placeholder]</context>
       <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
     </header>
     <body>
-      <trans-unit id="583250" resname="welcome">
+      <trans-unit id="583250" resname="welcome" approved="yes">
         <source>Welcome!</source>
-        <target state="needs-translation">Welcome!</target>
+        <target state="final">Вітаємо!</target>
         <context-group purpose="information">
           <context context-type="source">welcome</context>
         </context-group>
