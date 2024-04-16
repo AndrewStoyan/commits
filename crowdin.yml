@@ -1,4 +1,4 @@
-commit_message: '[ci skip]'
+commit_message: '[ci skip]\n[hui pizda]'
 
 files:
   - source: '*.json'
